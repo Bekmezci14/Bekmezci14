@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Arkin 👋
 
-<!--
-**Bekmezci14/Bekmezci14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at Middle East Technical University (METU).
 
-Here are some ideas to get you started:
+### 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering @ METU
+- 🤖 Interested in Artificial Intelligence & Computer Vision
+- 🗺️ Interested in Geospatial AI
+- 💻 Experienced with C++, Python, C#, .NET, React and Flutter
+
+### 🛠️ Technologies
+
+C++ • Python • C# • .NET • React • Flutter • SQL • Docker • Git
+
+### 🚀 Projects
+
+- Web-Proto
+- FinanceApp
+- AccountManager
+- GameStore
+- [METU App](https://metuapp.ceng.metu.edu.tr/)
+
+### 📫 Contact
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/arkin-bekmezci/)
+
+                                                                               
+                                                                               
+                                                                               
+                                    $$$$$$$$$$$$@@@@                           
+                                #####********###$$$$$$$                        
+                              ##**!!*!!==!==!!**###$$$$$$#                     
+                            *#**!!!==;;;::;;===!**###$$$$$#                    
+                           ****!!=;::~--,--~:;;=!!*####$$$##                   
+                          ****!!=;:~-......,-~:;=!!*########*                  
+                         !****!!=:~-.........,~;=!!**#######*!                 
+                         **###*!=;-,...     ..~:==!***######*!                 
+                        =*#####*!!:,.        ,:;=!!***####***!                 
+                        =*##$$$##*!:         :;=!!****##****!!                 
+                        =*##$$$$$$#*;       ;=!!************!=                 
+                        ;!*#$$$@@@$$$#! ;!!!!**************!=;                 
+                        :=!*#$$$@@@@$$$#####***********!*!!==:                 
+                         ;=!*#$$$$$$$$$$######*******!!!!!=;:                  
+                         ,=!!**###$$$$$######******!!!!!=;;:                   
+                          ,;==!*****####*******!!!!!!==;;:~                    
+                            ~;=!!!!!!****!!!!!!!!!===;;:~                      
+                             .~:;====!!!!=!=!====;;::~-                        
+                                ,-~:;;;;;;;;;:;::~~-.                          
